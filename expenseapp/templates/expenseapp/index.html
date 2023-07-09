@@ -2,4 +2,8 @@
 
 {% block content %}
 <h1>this is the index page</h1>
+<form action="">
+    {% csrf_token %}
+    {{ expense_form.as_p }}
+</form>
 {% endblock %}
