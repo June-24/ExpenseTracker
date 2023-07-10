@@ -41,6 +41,7 @@ python manage.py runserver
 ```
 After running the command, the website will be accessible at http://localhost:8000 in your web browser.
 
+
    
 
 
