@@ -59,19 +59,19 @@ After running the command, the website will be accessible at http://localhost:80
  ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/9171500c-14a4-45b5-b576-980e07961df1)
  ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/36a5c9b4-cd1b-4fdc-a522-87d71225a7be)
 ## 3. we can edit the expenses and delete them as well
-### 1. edit
+### 3.1 edit
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/e808455e-4701-4de6-bf32-4012694cd73b)
 after edit
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/491c4ffb-05e9-4671-afb5-4d98b2208f89)
 
-### 2. delete
-let us delete that updated Ipad
+### 3.2 delete
+#### let us delete that updated Ipad by clickig on the delete button
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/5a80370f-1aef-4d69-ac6e-594f48f66b47)
-ipad is gone
+#### Ipad is gone
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/e1d843b9-5e2f-491a-be87-9288d499a612)
-## 3. categorical Sum and the expenses in the past 30-days
+## 4. categorical Sum and the expenses in the past 30-days
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/aff950be-f5ea-4d0c-951b-4f44475b348f)
-## 4. pie chart of the categorical expenses and the line chart of the daily expenses
+## 5. pie chart of the categorical expenses and the line chart of the daily expense sum
 ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/1db643d4-e758-4871-80b0-19d8fe815119)
 
 
