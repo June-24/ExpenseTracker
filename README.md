@@ -50,7 +50,7 @@ After running the command, the website will be accessible at http://localhost:80
 - The data of the expenses and all the features are stored in the SQLite database. \
   ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/66475033-ad05-4d5f-a459-f1d8d14cba72)
 
-# Images below show the Working of the chat application
+# Images below show the Working of the Expense Tracking application
 ## 1. Add Expense
  ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/d30c442b-aa1c-4efd-83e1-2fd665c2fcfc)
  >after adding the Keyboard expense
