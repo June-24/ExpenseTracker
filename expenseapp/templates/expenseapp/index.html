@@ -1,5 +1,6 @@
 {% extends 'expenseapp/base.html' %}
 {% load static %}
+{% load humanize %}
 {% block content %}
         <div class="m-10 font-bold">Add Expense ➕</div>
 
@@ -50,7 +51,7 @@
         {% for expense in expenses %}
         <div class="expense-row flex flex-wrap px-20 py-5">
             <span class="font-bold">{{ expense.name }}</span>
-            <span class="font-bold">₹{{ expense.amount }}</span>
+            <span class="font-bold">₹{{ expense.amount|intcomma }}</span>
             <span class="font-bold">{{ expense.date }}</span>
             <span class="font-bold">{{ expense.category }}</span>
             <span class="pl-24"><a href="{% url 'edit' expense.id %}"><img class="h-7" src="https://cdn-icons-png.flaticon.com/512/3597/3597075.png"></a></span>
@@ -64,6 +65,11 @@
             </span>
         </div>
         {% endfor %}
+        <div class="px-72 py-5">
+            <span class="font-bold text-green-500">
+                Total : ₹{{ total_expenses.amount__sum | intcomma }}
+            </span>
+        </div>
     </div>
 </form>
 {% endblock %}
