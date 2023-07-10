@@ -51,6 +51,32 @@ After running the command, the website will be accessible at http://localhost:80
   ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/66475033-ad05-4d5f-a459-f1d8d14cba72)
 
 # Images below show the Working of the chat application
+ ## 1. Add Expense
+ ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/d30c442b-aa1c-4efd-83e1-2fd665c2fcfc)
+ ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/b10a4526-5f59-4057-ab98-241a11898c01)
+ ## 2. Expenses list
+ ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/9171500c-14a4-45b5-b576-980e07961df1)
+ ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/36a5c9b4-cd1b-4fdc-a522-87d71225a7be)
+ - we can edit the expenses and delete them as well
+ - edit
+![image](https://github.com/June-24/ExpenseTracker/assets/123622678/e808455e-4701-4de6-bf32-4012694cd73b)
+ - delete
+   ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/7fffdf90-1dab-43ec-b5b4-117ae5c6f8b1)
+   - clicking on the delete button it will remove the item from our expense list
+     ![image](https://github.com/June-24/ExpenseTracker/assets/123622678/198a6bdf-bffc-4400-bd4b-f02d8c4df750)
+## 3. categorical Sum and the expenses in the past 30-days
+![image](https://github.com/June-24/ExpenseTracker/assets/123622678/aff950be-f5ea-4d0c-951b-4f44475b348f)
+## 4. pie chart of the categorical expenses and the line chart of the daily expenses
+![image](https://github.com/June-24/ExpenseTracker/assets/123622678/1db643d4-e758-4871-80b0-19d8fe815119)
+
+
+
+
+   
+
+
+
+
 
 
   
